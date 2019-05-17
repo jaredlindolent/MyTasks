@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C86EE</color>
+    <color name="colorPrimaryDark">#8A2BE2</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="grey">#808080</color>
+    <color name="darkgrey">#1A1A1A</color>
+    <color name="darkviolet">#8A2BE2</color>
+    <color name="dodgerblue">#104E8B</color>
+    <color name="dodgerblue2">#1C86EE</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- cardview colors -->
+    <color name="transparent">#00FFFFFF</color>
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="card_detailing">#eee</color>
+</resources>

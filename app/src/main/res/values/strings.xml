@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_title">My Tasks</string>
+    <string name="app_name">To Do List</string>
+    <string name="workTitle">Work Things to Complete</string>
+    <string name="progressTitle">Progress</string>
+    <string name="taskTitle">To Do</string>
+    <string name="addButton">Add</string>
+    <string name="taskRequired">Please enter a task</string>
+</resources>
